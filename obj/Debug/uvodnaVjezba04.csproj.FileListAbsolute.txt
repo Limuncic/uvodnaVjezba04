@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.exe.config
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.exe
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\bin\Debug\uvodnaVjezba04.pdb
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.exe
+C:\Users\rafae\source\repos\uvodnaVjezba04\uvodnaVjezba04\obj\Debug\uvodnaVjezba04.pdb
